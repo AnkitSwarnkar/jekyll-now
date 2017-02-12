@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "/img/intro-bg.jpg"
+background-img: "/img/back.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "In God we trust. All others must bring data"
   - text: "Torture the data, and it will confess to anything"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/geek.jpg"
 
 ##############################
 # Color the browser elements #
@@ -111,10 +111,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/shoptaki.jpg"
     date: "Jan 2017 - Today"
     description: "Joined Shoptaki as Data Science and AI Intern"
-  - image: "/img/timeline/blockiu_rgb_lg.jpg"
+  - image: "/img/timeline/ds.jpg"
     date: "Sep 2016 - Today"
     description: "Data Science Consulting Club Established"
   - image: "/img/timeline/blockiu_rgb_lg.jpg"
