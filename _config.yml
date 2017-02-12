@@ -12,7 +12,7 @@ url: "https://ankitswarnkar.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /ankitswarnkar.github.io
+baseurl: /
 
 # Google tracking id
 
@@ -33,15 +33,15 @@ author: "Ankit Swarnkar"
 title: "{ Ankit Swarnkar}"
 description: "Blog and website of Ankit Swarnkar, blogging mainly for Data Science and BlockChain. Opinions expressed are mine."
 keywords: "datascience,blockchain, blog, data,ankit, swarnkar"
-favicon: "/img/favicon.ico"
+favicon: "../img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "../img/black-lab-glass.ico"
 
-background-img: "/img/intro-bg.jpg"
+background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
