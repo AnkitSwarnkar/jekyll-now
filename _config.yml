@@ -1,199 +1,83 @@
+#
+# This file contains configuration flags to customize your site
+#
 
-# Site settings
+# Name of your site (displayed in the header)
+name: Ankit Swarnkar
 
-# NB! Set your site's url, otherwise stuff will break :)
+# Short bio or description (displayed in the header)
+description: Blogs for Learning Data Science and blockchain
 
-url: "https://ankitswarnkar.github.io"
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: ankit.swarnkar007@gmail.com
+  facebook: https://www.facebook.com/ankit.swarnkar
+  flickr:
+  github: barryclark/jekyll-now
+  linkedin: https://www.linkedin.com/in/ankitswarnkar
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: http://ankitswarnkar.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
 #
-# NB! Without this *nothing* will work, because it's used in every path :)
+# !! You don't need to change any of the configuration flags below !!
+#
 
-baseurl: /personal-jekyll-theme
+permalink: /:title/
 
-# Google tracking id
+# The release of Jekyll Now that you're using
+version: v1.2.0
 
-google-tracking-id: ""
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
-force-https: True
-
-#############
-# HTML Head #
-#############
-
-lang: "en"
-author: "Ankit Swarnkar"
-title: "{ Ankit Swarnkar}"
-description: "Blog and website of Ankit Swarnkar, blogging mainly for Data Science and BlockChain. Opinions expressed are mine."
-keywords: "datascience,blockchain, blog, data,ankit, swarnkar"
-favicon: "/img/favicon.ico"
-
-################
-# Header layout #
-################
-
-black-favicon: "/img/black-lab-glass.ico"
-
-background-img: "../img/intro-bg.jpg"
-
-##############################
-# Dynamic Text on the Header #
-##############################
-
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-
-me-img: "/img/jetpacktocat.png"
-
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
-
-################
-# Web app mode #
-################
-
-web-app-mode: True
-
-# Icons for Web App mode
-
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
-
-########
-# Blog #
-########
-
-enable-gesture-navigation: True
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "Ankit"
-
-syntax-highlight: True
-
-############
-# Timeline #
-############
-
-events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "Feb 2017 - Today"
-    description: "Started This blog"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "Aug 2016 - Today"
-    description: "Started Graduation in Data Science"
-
-# First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
-
-###########
-# Contact #
-###########
-
-email: "ankswarn@iu.edu"
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "Ankit Swarnkar is a data story teller. He is a graduate student of Indiana University."
-author_blurb_image: "/img/author.jpeg"
-
-##################
-# Social Buttons #
-##################
-
-social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/AnkitSwarnkar"
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/ankitswarnkar"
-  - title: "rss"
-    url: "/feed.xml"
-
-############
-# 404 page #
-############
-
-err-404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: ankitswarnkar
-keybase-in-social: True
-keybase-in-footer: True
-
-################################################################################
-
-# NB! Tread carefully if you want to change the variables below this point!
-
-# Sections shown in the index page
-
-pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
-
-# Exclusion list from the generated _site
-
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
-
-# Pagination path
-
-paginate_path: "blog/page:num/"
-
-# Enable minification SASS
-
+# Set the Sass partials directory, as we're using @imports
 sass:
-  style: compressed
+  style: :expanded # You might prefer to minify using :compressed
 
+# Use the following plug-ins
 gems:
-  - jekyll-paginate
-  - jemoji
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
