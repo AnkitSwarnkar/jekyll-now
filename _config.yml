@@ -112,10 +112,13 @@ syntax-highlight: True
 
 events:
   - image: "../img/timeline/spidertocat.png"
-    date: "Feb 2017 - Today"
-    description: "Started This blog"
-  - image: "../img/timeline/baracktocat.jpg"
-    date: "Aug 2016 - Today"
+    date: "Jan 2017 - Today"
+    description: "Joined Shoptaki as Data Science and AI Intern"
+  - image: "../img/timeline/blockiu_rgb_lg.jpg"
+    date: "Sep 2016 - Today"
+    description: "Data Science Consulting Club Established"
+  - image: "../img/timeline/blockiu_rgb_lg.jpg"
+    date: "Aug 2016 - May 2018"
     description: "Started Graduation in Data Science"
 
 # First image of the Timeline
