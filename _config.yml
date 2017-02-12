@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Ankit Swarnkar"
-title: "{ Ankit Swarnkar}"
+title: "[Ankit Swarnkar]"
 description: "Blog and website of Ankit Swarnkar, blogging mainly for Data Science and BlockChain. Opinions expressed are mine."
 keywords: "datascience,blockchain, blog, data,ankit, swarnkar"
 favicon: "../img/favicon.ico"
@@ -137,7 +137,7 @@ email: "ankswarn@iu.edu"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Ankit Swarnkar is a data story teller. He is a graduate student of Indiana University."
-author_blurb_image: "/img/author.jpeg"
+author_blurb_image: "../img/author.jpg"
 
 ##################
 # Social Buttons #
@@ -145,7 +145,7 @@ author_blurb_image: "/img/author.jpeg"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/ankit.swarnkar"
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
@@ -159,7 +159,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "../img/labtocat.png"
 
 ##################
 # GPG on Keybase #
