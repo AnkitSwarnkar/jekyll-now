@@ -21,7 +21,7 @@ footer-links:
   facebook: https://www.facebook.com/ankit.swarnkar
   flickr:
   github: barryclark/jekyll-now
-  linkedin:https://www.linkedin.com/in/ankitswarnkar
+  linkedin: https://www.linkedin.com/in/ankitswarnkar
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
