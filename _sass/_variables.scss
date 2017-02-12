@@ -1,27 +1,21 @@
+// Variables
 
-//
-// VARIABLES
-//
+// Main color
+$primary-color: #000;
 
-// Colors
-$blue: #4183C4;
+// Anchor color
+$secondary-color: #00cdff;
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+// Font color
+$font-color: #fff;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$navbar-text-shadow: true;
+$header-text-shadow: true;
+$header-background-color: $primary-color;
+$intro-text-color: $font-color;
+$navbar-color: $font-color;
+$navbar-lg-collapse-background-color: $header-background-color;
+$navbar-lg-background: transparent;
+$navbar-sm-background-color: $navbar-lg-collapse-background-color;
 
-// Mobile breakpoints
-@mixin mobile {
-  @media screen and (max-width: 640px) {
-    @content;
-  }
-}
+$social-buttons-color: $secondary-color;
