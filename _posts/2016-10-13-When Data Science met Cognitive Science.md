@@ -1,0 +1,12 @@
+Data science is everywhere! Its applications are growing everyday. From medical to game field to advertising to marketing domain everywhere data science is showing its magic. Data science is pulling cognitive science out of the lab to real time application. IBM release of the great WATSON model, CognitiveScale insight as a service using cognitive science are some of the example of the same.
+
+The idea of how big data can be used in great cognitive science greatly intrigue me. Cognitive science is based on experimental data and big data cannot replace it but it can be used as a additional way to learn or test brain hypothesis. Question about the usage and ability of big data approximation of cognitive of human mind is a big challenge and long road to go.
+
+On "using as a learning way" approach, one can think in a way that big data is a collection of human action and way they applied their cognition for action. Let us take example of social media article post. Out of 10 other post let predict which one gets lots of likes. Using predictive analysis we can predict what feature made the post so great but we don't predict why those feature provided so much tempt for "a like". If somehow we can learn the cognitive pattern of why human brain selected that particular post we can create a casual model for answering the "why" part.
+
+On "using as a test way" the great cognitive scientist can use big data to test hypothesis they create using experimental lab data. For example if great minds comes with a hypothesis that red color is more preferred by the human mind for selection, they can test from the huge data set of human action whether this hypothesis is true or not. The pattern they learned can be tested on huge data set of human behavior already captured in big data.
+
+Both Cognitive Science and data science are huge domain and I am sure their intersection again would be a huge domain for realization of true AI dream. I am still pretty naive in both the domain but I am sure combining the cognitive science and big data application would surely be great help in medical, logistic and many real time application.
+
+Reference:
+I am first year Data science graduate student of Indiana University and still learning the big data approach to cognitive science. This article is totally inspired by Dr. Michael Jones [http://psych.indiana.edu/faculty/jonesmn.php] book and research work in the domain.
