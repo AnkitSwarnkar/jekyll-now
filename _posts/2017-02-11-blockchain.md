@@ -66,6 +66,6 @@ I will discuss following consensus in my coming post. Stay tune and keep learnin
 ### Condra
 
 References:
-[1]Erik Zhang, A Byzantine Fault Tolerance Algorithm for Blockchain
-[2]SIMPLER CONSENSUS WITH RAFT, http://www.goodmath.org/blog/2015/02/14/simpler-consensus-with-raft/
-[3]Christopher Copeland and Hongxia Zhong, Tangaroa: a Byzantine Fault Tolerant Raft
+* [1]Erik Zhang, A Byzantine Fault Tolerance Algorithm for Blockchain
+* [2]SIMPLER CONSENSUS WITH RAFT, http://www.goodmath.org/blog/2015/02/14/simpler-consensus-with-raft/
+* [3]Christopher Copeland and Hongxia Zhong, Tangaroa: a Byzantine Fault Tolerant Raft
