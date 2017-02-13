@@ -6,7 +6,8 @@ So what is a consesus protocol?
 The term ‘consensus’ refers to a decision-making process which is done in a collabrative way. Generally, for centralized architecture there a centrallized machine (node) which takes all the decision however for block chain its different. Being a distributive architecture, there need to be a set of rule by which various different computers/nodes connected with each other comes to an agreement. More technically, consensus algorithm is required by the blockchain to ensure that every node has a copy of a recognized version of the total ledger.[1] Consensus algorithm allow secure updating of state according to some rules or conditions.  
 
 Since the inception of PBFT consensus algorithm, there are plethora of consensus algorithms like Proof of Work, Proof of Stake, Proof of Concepts etc. in world of blockchain. In this post I will introduce to some of the amazing new consensus protocols. 
-### Tangaroa
+### Tangaroa 
+
 #### Introduction
 Tangaroa consesus protocol or BFT Raft is a Byzantine server tolerance enhancement to the Raft algorithms i.e. it tried to mitigate the risk of byzantine nodes in previous RAFT[https://raft.github.io/]. The Tangaroa consensus algorithm just like RAFT algorithm divides the consensus algorithm into two problem of log replication and leader selection. A BFT Raft cluster that tolerates f Byzantine failures must contain at least n ≥ 3f + 1 nodes, where n − f nodes form a quorum. At any given time the node can be in only three states of leader,follower, or candidate. 
 
