@@ -57,15 +57,15 @@ This is pretty much for Tangaroa. If you want to learn more, please refer to gre
 
 I will discuss following consensus in my coming post. Stay tune and keep learning.
 
-### Template based PBFT
+#### Template based PBFT
 
-### Proof of Elapsed Time
+#### Proof of Elapsed Time
 
-### Delegated Proof of Stake
+#### Delegated Proof of Stake
 
-### Condra
+#### Condra
 
-References:
+### References
 * Erik Zhang, A Byzantine Fault Tolerance Algorithm for Blockchain[1]
 * SIMPLER CONSENSUS WITH RAFT, http://www.goodmath.org/blog/2015/02/14/simpler-consensus-with-raft/[2]
 * Christopher Copeland and Hongxia Zhong, Tangaroa: a Byzantine Fault Tolerant Raft[3]
