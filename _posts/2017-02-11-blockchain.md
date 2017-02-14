@@ -1,4 +1,4 @@
-## Various Blockchain Consesus algorithm Part I
+## Various Blockchain Consensus algorithm Part I
 
 A blockchain is simply a distributed ledger system. Block chain is now a talk of each and every feild. This disruptive technology has created lots of buzz in domains like financial, IOT, academic, assest and more. Many big tech companies like IBM, Disney, Intel, Samsung have started leveraging this amazing technology. In this post I will try to summarize the most important part i.e. heart of block chain, the consensus protocol. 
 
