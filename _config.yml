@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Ankit Swarnkar"
 title: "Ankit Swarnkar"
-description: "Blog and website of Ankit Swarnkar, blogging mainly for Data Science and BlockChain. Opinions expressed are mine."
+description: "Blog and Website of Ankit Swarnkar | Data Scientist| Blogging mainly for Data Science and BlockChain|Opinions expressed are mine."
 keywords: "datascience,blockchain, blog, data,ankit, swarnkar"
 favicon: "/img/favicon.ico"
 
@@ -95,7 +95,7 @@ email-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: True
 tumblr-share: False
 pinterest-share: False
@@ -139,7 +139,7 @@ email: "ankswarn@iu.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Ankit Swarnkar is a data story teller. He is a data science graduate student of Indiana University"
+author_blurb: "Ankit Swarnkar is a data story teller. He is a data science graduate student of Indiana University. Currently Assosiated with Shoptaki where is applying data science to create an intelligent B2B platform"
 author_blurb_image: "/img/geek.jpg"
 
 ##################
@@ -149,8 +149,6 @@ author_blurb_image: "/img/geek.jpg"
 social:
   - title: "facebook"
     url: "https://facebook.com/ankit.swarnkar"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/AnkitSwarnkar"
   - title: "linkedin"
