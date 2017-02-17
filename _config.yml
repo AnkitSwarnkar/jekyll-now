@@ -55,7 +55,7 @@ type-speed: 2
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "You have landed on <h4>Ankit Swarnkar<\h4> website!"
+  - text: "You have landed on Ankit Swarnkar website!"
   - text: "Welcome to website of Data Geek with passion for predictive analytics!"
   - text: "My ideology is Torture the data, and it will confess to anything!!"
   - text: "Creating magic with blend of my computer science skills and data science skills!"
