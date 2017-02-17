@@ -55,9 +55,10 @@ type-speed: 2
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "In God we trust. All others must bring data!!"
-  - text: "Torture the data, and it will confess to anything!!"
-  - text: "Welcome to my website! With blend of my computer science skills and data science skills, I experience magic every day! Check out my cool ideas, projects and blog."
+  - text: "You have landed on Ankit Swarnkar website"
+  - text: "Welcome to website of Data Geek with passion for predictive analytics!"
+  - text: "My ideology is Torture the data, and it will confess to anything!!"
+  - text: "With blend of my computer science skills and data science skills, I experience magic every day! Check out my cool ideas, projects and blog."
 
 me-img: "/img/geek.jpg"
 
